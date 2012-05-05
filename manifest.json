@@ -1,0 +1,14 @@
+{
+  "name": "LinkShare",
+  "version": "1.0",
+  "description": "Share Links among group",
+  "icons": {
+    "128": "icon.png"
+  },
+  "browser_action": {
+    "popup": "popup.html"
+  },
+  "permissions": [
+    "<all_urls>"
+  ]
+}
